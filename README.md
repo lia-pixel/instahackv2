@@ -1,5 +1,5 @@
-# Instahack2
-Este script automatiza um brute force a um instagram de uma determinada conta utilizando duas ferramentas uma fornece uma lista de senha e a outra é a que faz a mágica este script não é para ser usado por pessoas mal intencionadas  
+# Instahackv2
+Este script faz o mesmo processo e tem a mesma finalidade do outro script tentar adivinhar a senha de uma determinada conta do instagram mas este script está voltado para ser usado no Termux por alguns códigos no Termux que não são conhecidos no Linux
 
 # Como usar
 
@@ -9,9 +9,9 @@ Como usar ? é muito simples é só você rodar o comando:
 
 Depois você entra na pasta com o comando:
 
-*cd instahack2*
+*cd instahackv2*
 
 E agora para executar é só você digitar:
 
-*sh instahack2.sh*
+*sh instahackv2.sh*
 
