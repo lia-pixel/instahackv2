@@ -5,7 +5,7 @@ Este script faz o mesmo processo e tem a mesma finalidade do outro script tentar
 
 Como usar ? é muito simples é só você rodar o comando:
 
-*git clone https://github.com/MRX8001/instahack2*
+*git clone https://github.com/MRX8001/instahackv2*
 
 Depois você entra na pasta com o comando:
 
