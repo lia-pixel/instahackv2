@@ -12,6 +12,8 @@ fi
 #
 #
 pkg install python3
+pkg install python
+pkg install python2
 cd Instagram
 clear
 figlet Instahack2
@@ -36,7 +38,7 @@ read -p "[+]=>" vitima
 clear
 figlet START
 pip3 install -r requirements.txt
-python3 instagram.py $vitima /$HOME/instahack2/Brute-Force/wordlist/wordlist.txt -m 3
+pip2 install -r requirements.txt
+python3 instagram.py $vitima /data/data/com.termux/files/home/instahackv2/Brute-Force/wordlist/wordlist.txt -m 3
 fi
 exit
-
